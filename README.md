@@ -54,7 +54,7 @@ This recreates `dist/` from the source files. The build copies only the listed
 website assets, README and license;
 it does not copy secrets, Git metadata, tests or local configuration into the site.
 Deploy `dist/` to your chosen static host. Configure your own hosting project;
-account-specific deployment identifiers are intentionally excluded.
+account-specific deployment identifiers are intentionally excluded...
 
 ## Features
 
